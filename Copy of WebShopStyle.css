@@ -1,0 +1,342 @@
+﻿*{margin:0;padding:0;border:0 solid black}
+
+body {background-color:#ffffff;height:100%;width:100%}
+
+a:link, a:visited, a:hover, a:active{
+	color:black;
+	text-decoration:none;
+}
+
+input[type=text], input[type=password]{
+
+    padding-left:10px;
+
+    -webkit-border-bottom-left-radius: 15px;
+    -moz-border-bottom-left-radius: 15px;
+    -ms-border-bottom-left-radius: 15px;
+    -o-border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+    -webkit-border-bottom-right-radius:15px;
+    -moz-border-bottom-right-radius:15px;
+    -ms-border-bottom-right-radius:15px;
+    -o-border-bottom-right-radius:15px;
+    border-bottom-right-radius:15px;
+
+    -webkit-border-top-right-radius:15px;
+    -moz-border-top-right-radius:15px;
+    -ms-border-top-right-radius:15px;
+    -o-border-top-right-radius:15px;
+    border-top-right-radius:15px;
+}
+
+.button_abbrunden15{
+        -webkit-border-bottom-left-radius: 15px;
+    -moz-border-bottom-left-radius: 15px;
+    -ms-border-bottom-left-radius: 15px;
+    -o-border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+    -webkit-border-bottom-right-radius:15px;
+    -moz-border-bottom-right-radius:15px;
+    -ms-border-bottom-right-radius:15px;
+    -o-border-bottom-right-radius:15px;
+    border-bottom-right-radius:15px;
+
+    -webkit-border-top-right-radius:15px;
+    -moz-border-top-right-radius:15px;
+    -ms-border-top-right-radius:15px;
+    -o-border-top-right-radius:15px;
+    border-top-right-radius:15px;
+}
+
+.abrunden_20{
+    -webkit-border-bottom-left-radius: 20px;
+    -moz-border-bottom-left-radius: 20px;
+    -ms-border-bottom-left-radius: 20px;
+    -o-border-bottom-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+    -webkit-border-bottom-right-radius:20px;
+    -moz-border-bottom-right-radius:20px;
+    -ms-border-bottom-right-radius:20px;
+    -o-border-bottom-right-radius:20px;
+    border-bottom-right-radius:20px;
+
+    -webkit-border-top-right-radius:20px;
+    -moz-border-top-right-radius:20px;
+    -ms-border-top-right-radius:20px;
+    -o-border-top-right-radius:20px;
+    border-top-right-radius:20px;
+}
+.abrunden_15{
+     -webkit-border-bottom-left-radius:15px;
+    -moz-border-bottom-left-radius:15px;
+    -ms-border-bottom-left-radius:15px;
+    -o-border-bottom-left-radius:15px;
+    border-bottom-left-radius:15px;
+
+    -webkit-border-bottom-right-radius:15px;
+    -moz-border-bottom-right-radius:15px;
+    -ms-border-bottom-right-radius:15px;
+    -o-border-bottom-right-radius:15px;
+    border-bottom-right-radius:15px;
+
+    -webkit-border-top-right-radius:15px;
+    -moz-border-top-right-radius:15px;
+    -ms-border-top-right-radius:15px;
+    -o-border-top-right-radius:15px;
+    border-top-right-radius:15px;     
+}
+
+.abrunden_6{
+     -webkit-border-bottom-left-radius:6px;
+    -moz-border-bottom-left-radius:6px;
+    -ms-border-bottom-left-radius:6px;
+    -o-border-bottom-left-radius:6px;
+    border-bottom-left-radius:6px;
+
+    -webkit-border-bottom-right-radius:6px;
+    -moz-border-bottom-right-radius:6px;
+    -ms-border-bottom-right-radius:6px;
+    -o-border-bottom-right-radius:6px;
+    border-bottom-right-radius:6px;
+
+    -webkit-border-top-right-radius:6px;
+    -moz-border-top-right-radius:6px;
+    -ms-border-top-right-radius:6px;
+    -o-border-top-right-radius:6px;
+    border-top-right-radius:6px;     
+}
+
+.abrunden_8{
+     -webkit-border-bottom-left-radius:8px;
+    -moz-border-bottom-left-radius:8px;
+    -ms-border-bottom-left-radius:8px;
+    -o-border-bottom-left-radius:8px;
+    border-bottom-left-radius:8px;
+
+    -webkit-border-bottom-right-radius:8px;
+    -moz-border-bottom-right-radius:8px;
+    -ms-border-bottom-right-radius:8px;
+    -o-border-bottom-right-radius:8px;
+    border-bottom-right-radius:8px;
+
+    -webkit-border-top-right-radius:8px;
+    -moz-border-top-right-radius:8px;
+    -ms-border-top-right-radius:8px;
+    -o-border-top-right-radius:8px;
+    border-top-right-radius:8px;     
+}
+.HintergrundGelbVerlauf{
+  background: #ffef70;
+  background: -moz-linear-gradient(#ffef70 0%, #f8ac01 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffef70), color-stop(100%, #f8ac01));
+  background: -webkit-linear-gradient(#ffef70 0%, #f8ac01 100%);
+  background: linear-gradient(#ffef70 0%, #f8ac01 100%);
+}
+
+.HintergrundGrauVerlauf{
+  background: #2c2c2c;
+  background: -moz-linear-gradient(#2c2c2c 0%, #141414 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #2c2c2c), color-stop(100%, #141414));
+  background: -webkit-linear-gradient(#2c2c2c 0%, #141414 100%);
+  background: linear-gradient(#2c2c2c 0%, #141414 100%);
+
+  color:white;
+}
+
+
+.TextSchein{text-shadow: 0 1px 1px #000}
+.span66{margin-left:10px;width:66px;display:inline-block;margin-top:15px;font-family:Calibri}
+.span90D{margin-left:10px;width:90px;display:inline-block;font-family:Calibri;font-size:12px;/*background-color:orangered;*/overflow:visible;font-size:13px}
+.span90DU{ margin-left: 50px; width: 90px; display: inline-block; font-family: Calibri; font-size: 12px; /*background-color:orangered;*/ overflow: visible; font-size: 13px; }
+.span150{margin-left:10px;width:150px;display:inline-block;margin-top:15px;font-family:Calibri}
+.span400ROT{margin-left:10px;width:400px;display:inline-block;margin-top:10px;color:red;font-family:Calibri}
+.span400ROT_Ansicht{margin-left:50px;width:400px;display:inline-block;margin-top:20px;color:red;font-family:Calibri}
+.span400{margin-left:10px;width:400px;display:inline-block;margin-top:15px;margin-bottom:10px;font-family:Calibri}
+.span600{margin-left:10px;width:600px;display:inline-block;margin-top:15px;margin-bottom:10px;font-family:Calibri}
+.input25{margin-left:50px;height:20px;margin-top:15px;margin-bottom:5px;border:1px solid #d0d0d0}
+.input15{margin-left:50px;height:20px;/*margin-top:5px;*/margin-bottom:5px;border:1px solid #d0d0d0}
+.inputKom{margin-left:10px;height:70px;margin-top:5px;margin-bottom:10px;border:1px solid #d0d0d0}
+.button180_30{margin-left:10px;margin-top:10px;margin-bottom:10px;margin-right:30px;width:180px;height:30px;color:#000000;text-align:center;font-size:15px;font-family:'Berlin Sans FB'}
+.button180_30:hover{cursor:pointer}
+.button180_30_B{margin-left:10px;margin-top:10px;margin-bottom:10px;margin-right:30px;width:180px;height:30px;color:#000000;text-align:center;font-size:15px;font-family:'Berlin Sans FB'}
+.button180_30_B:hover{cursor:pointer}
+.button180_30_Black{margin-left:10px;margin-bottom:10px;width:180px;height:30px;color:#ffffff;text-align:center;font-size:12px;font-family:'Berlin Sans FB';background-color:#000000}
+.button180_30_Black:hover{cursor:pointer}
+.button180_30_Korb{width:180px;height:30px;color:#000000;text-align:center;font-size:15px;font-family:'Berlin Sans FB';margin-bottom:20px}
+.button180_30_Korb:hover{cursor:pointer}
+.ButtonKonto{width:128px;height:200px;font-size:20px;font-family:Calibri;margin-left:40px;margin-top:50px;border:2px solid #d0d0d0}
+.ButtonKonto:hover{cursor:pointer}
+.ButtonKontoKlein{min-width:76px;max-width:76px;height:120px;font-size:10px;font-family:Arial;margin-left:15px;margin-top:30px;border:2px solid #d0d0d0;font-family:'Berlin Sans FB'}
+.ButtonKontoKlein:hover{cursor:pointer}
+.Captureimg{min-width:50px;max-height:40px;}
+.reload{width:10px;margin-left:10px}
+
+#topmost {max-width:1024px;margin:0 auto;min-width:1024px}
+
+#header {width: 100%}
+
+#AnmeldeLink{font-size:12px;bottom:5px;padding-right:50px;float:right;padding-top:7px;/*background-color:#d7d7d7*/font-family:Calibri}
+
+ #Warenkorbanzeige{width:20%;min-width:204px;height:28px;float:right;margin-bottom:7px;
+
+    -webkit-border-bottom-left-radius: 20px;            -webkit-border-bottom-right-radius:20px;
+    -moz-border-bottom-left-radius: 20px;               -moz-border-bottom-right-radius:20px;
+    -ms-border-bottom-left-radius: 20px;                -ms-border-bottom-right-radius:20px;
+    -o-border-bottom-left-radius: 20px;                 -o-border-bottom-right-radius:20px;
+    border-bottom-left-radius: 20px;                    border-bottom-right-radius:20px;    
+}
+
+#Warenkorblabel{display:inline-block;font-size:11px;margin-left:15px;float:left;padding-top:5px;font-family:Calibri}
+#Warenkorbbutton{display:inline-block;margin-right:15px;float:right;padding-top:3px}
+#Warenkorbbutton:hover{cursor:pointer}
+#Warenkorbbutton button{min-height:12px;max-height:15px;min-width:12px;background-size:cover;background-color:transparent;background-position:center center;margin-right:10px;bottom:auto;position:relative}
+@-moz-document url-prefix(){
+#Warenkorbbutton button{min-height:12px;max-height:15px;min-width:12px;background-size:cover;background-color:transparent;background-position:center center;margin-right:10px;bottom:5px;position:relative}
+}
+
+
+#SucheSchwarz{position:relative;height:100px;background-color: #000000;margin-bottom:10px;}
+#SucheZeile{/*background-color:#b6ff00;*/width:40%;min-width:430px;bottom:10px;right:10px;position:absolute;display:inline-block;height:15px;overflow:hidden}
+#SucheZeile label{font-size:15px;font-family:Aharoni;color:#ffffff;vertical-align:text-top}
+#SucheZeile input[type=text]{width:65%;min-width:300px;max-width:340px;height:100%;margin-right:5px;padding:2px initial 2px inherit;vertical-align:top}
+#SucheZeile button{width:50px;height:100%;background-repeat:no-repeat;margin-right:-10px;right:0;position:absolute;background-size:contain;background-color:transparent;background-color:rgba(0,0,0,0)}
+#SucheZeile:hover{cursor:pointer}
+
+
+
+#UeberDiv{float:right;width:740px;min-height:75vh}
+
+#ProduktAnzeige{height:50px;width:100%;margin-bottom:20px;}
+#ProduktAnzeige label{margin-left:20px;width:600px;padding-top:12px;font-size:20px;font-family:Calibri;position:absolute;text-transform:uppercase}
+
+#OverFunction{max-width:760px;/*height:20px;background-color:#f8ac01*/}
+
+#AnzeigeZeile{height:230px;background-color:#f7f7f7;margin-bottom:10px;border:2px solid #eeeeee;margin-left:40px;}
+#AnzeigeZeile > div{float:left;min-width:128px;height:200px;margin-left:8px;margin-top:10px;border:1px solid black;background-color:#ffffff;text-align:center;position:relative}
+#AnzeigeZeile > div img {margin-top:5px;min-width:100px;max-width:120px;max-height:120px}
+#AnzeigeZeileBeschriftung{height:60px;width:120px;margin-left:4px;margin-top:10px;text-align:center;bottom:10px;position:absolute;font-family:Calibri}
+#SeiteWeiter{text-align:right;float:right;font-size:12px;background-color:none}
+#SeiteWeiter button{font-size:12px;margin-left:5px;margin-right:5px;background-color:#ffffff;font-family:Calibri}
+#SeiteWeiter label{margin-right:5px;font-family:Calibri}
+
+#Auswahl{float:left;min-width:200px;max-width:200px}
+#Auswahl img{margin-top:30px}
+
+#DIV_min_height_120{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:150px;margin-bottom:10px;}
+#DIV_min_height_120_W{margin-top:10px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:150px;margin-bottom:10px;}
+#DIV_min_height_150{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:150px;margin-bottom:10px;}
+#DIV_min_height_180D{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:210px;margin-bottom:10px;}
+#DIV_min_height_110{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:110px}
+#DIV_min_height_250{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:250px;margin-bottom:10px;}
+#DIV_min_height_170D{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:170px;margin-bottom:10px;}
+#DIV_min_height_210D{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:210px;margin-bottom:10px;}
+
+
+#SelectAnrede{margin-left:130px;height:19px;max-width:90px;margin-top:-20px;margin-bottom:5px;background-color:red;overflow:hidden;
+                    background: url("Down_07.png") 100% 50% no-repeat #ffffff;text-align:center;border:1px solid #d0d0d0}
+#SelectAnrede select {width: 120%;background: rgba(0,0,0,0);height:20px;padding-left:10px}
+
+
+#SelectLand{margin-left:130px;height:19px;max-width:200px;margin-top:-20px;margin-bottom:5px;background-color:red;overflow:hidden;
+                    background: url("Down_07.png") 100% 50% no-repeat #ffffff;text-align:center;border:1px solid #d0d0d0}
+#SelectLand select {width: 120%;background: rgba(0,0,0,0);height:20px;padding-left:10px}
+
+#DivIMG{margin-left:10px;min-width:140px;max-height:40px}
+
+#DivDetailBildBesch{width:100%;height:300px;/*background-color:#d7d7d7*/font-family:Calibri}
+#DivDetailimg{width:45%;height:300px;float:left;margin-left:50px;}
+#DivDetailimg img{max-height:280px;max-width: 100%;}
+#DivDetailText{height:200px;width:45%;float:right}
+#DivDetailPreis{height:60px;min-width:20%;float:right;/*background-color:#fede2a;*/margin-top:25px;font-family:Calibri;text-align:right}
+#DivDetailPreis label{font-size:35px;}
+#DivDetailPreis p{font-size:15px;color:gray;text-align:right}
+#Slidebar{width:300px;height:80px;background-color:#ffef70;margin-left:250px;}
+
+#DetailLabel{height:20px;width:100%;margin-top:30px;margin-bottom:-20px}
+#DetailLabel label{font-size:17px;margin-left:60px}
+
+#ZeileDetailauswahl{width:100%;height:20px/*;background-color:#d0d0d0*/;margin-top:20px}
+#ZeileDetailauswahl label{font-family:Calibri;font-size:12px}
+#ZeileDetailauswahl_Berechnen{width:400px;height:20px/*;background-color:#d0d0d0*/;margin-top:20px;float:left;font-family:Calibri}
+#ZeileDetailauswahl_Berechnen label{margin-left:150px;font-family:Calibri;font-size:12px}
+#Zeile_Klein_Auswahl_Rechts{width:250px;height:20px/*;background-color:#d0d0d0*/;margin-top:20px;float:right;display:inline-block;}
+#Zeile_Klein_Auswahl_Rechts label{font-family:Calibri;font-size:12px;margin-left:40px}
+#Zeile_Klein_Auswahl_Links{width:300px;height:20px/*;background-color:#d0d0d0*/;margin-top:20px;float:left;display:inline-block;}
+#Zeile_Klein_Auswahl_Links label{font-family:Calibri;font-size:12px;margin-left:50px}
+#Zeile_Klein_Auswahl_Links button{height:20px;width:20px;background-size:cover;background-color:transparent;background-position:center center;position:absolute;float:left;margin-left:10px}
+#Zeile_Klein_Auswahl_Rechts button{height:20px;width:20px;background-size:cover;background-color:transparent;background-position:center center;position:relative;float:right;margin-right:10px}
+
+
+
+#SelectDetail{margin-left:130px;height:19px;max-width:280px;margin-top:-20px;margin-bottom:5px/*;background-color:red*/;overflow:hidden;
+                    background: url("Down_07.png") 100% 50% no-repeat #ffffff;text-align:center;border:1px solid #d0d0d0}
+#SelectDetail select {width: 120%;background: rgba(0,0,0,0);height:20px;padding-left:10px}
+#ZeileDetailauswahl button{height:20px;width:20px;background-size:cover;background-color:transparent;background-position:center center;float:right;margin-right:10px}
+#ZeileDetailauswahl_Berechnen button{height:20px;width:20px;background-size:cover;background-color:transparent;background-position:center center;float:right;margin-right:10px}
+
+/*#ZeileDetailauswahl input{margin-left:26px;height:20px;border:1px solid #d0d0d0}*/
+.input26{margin-left:26px;height:20px;border:1px solid #d0d0d0}
+
+
+#divLogohochladen{position:absolute;display:inline-block;margin-left:26px;height:20px;min-width:300px;/*background-color:red*/}
+#divLogohochladen button{width:120px;height:17px;color:#ffffff;float:left;font-family:'Berlin Sans FB'}
+#divLogohochladen label{font-family:Calibri;font-size:12px}
+#divLogohochladen img{background-position:center center;margin-left:10px;}
+
+#GesamtPreis{height:60px;width:100%;/*background-color:#fede2a;*/margin-top:25px;font-family:Calibri;text-align:right}
+#GesamtPreis_label{min-width:20%;float:right;/*background-color:red*/}
+#GesamtPreis_label label{font-size:35px;}
+#GesamtPreis_label p{font-size:15px;color:gray;text-align:right}
+
+#Korb_Anfrage{margin-left:70px;height:200px;margin-top:20px/*;background-color:#d0d0d0*/;bottom:50px}
+#Korb_Anfrage button{float:right}
+#Korb_UnvAnfrage{width:200px/*;background-color:red*/;float:left;min-height:200px}
+#Korb_UnvAnfrage button{margin-top:10px;margin-bottom:10px;width:200px;height:30px;color:#ffffff;text-align:center;font-size:14px;font-family:'Berlin Sans FB'}
+
+#DIV_min_height_120_Bild{width:70px;height:100px;margin-left:10px;margin-top:10px;border:1px solid black;float:left;background-color:#ffffff}
+#DIV_min_height_120_Bild img{margin-top:10px;max-width:90%;max-height:90%;margin-left:2px}
+#DIV_min_height_120_Besch{width:230px;height:100px;margin-left:10px;margin-top:10px;border:1px solid black;float:left;background-color:#ffffff;font-family:Calibri;}
+#DIV_min_height_120_Besch span{margin-left:5px;margin-top:10px;width:220px;display:inline-block;height:70px;font-size:10px;font-family:Calibri;overflow-x:hidden;overflow-y:scroll;}
+#DIV_min_height_120_Ver{width:160px;height:100px;margin-left:10px;margin-top:10px;border:1px solid black;float:left;background-color:#ffffff;font-family:Calibri}
+#DIV_min_height_120_Ver span{width:150px;margin-left:5px;margin-top:10px;height:70px;display:inline-block;font-family:Calibri;font-size:10px;overflow-x:hidden;overflow-y:scroll;}
+#DIV_min_height_120_W input[type=text]{margin-top:10px;margin-left:20px;height:20px;border:1px solid #d0d0d0}
+
+#Uebersicht{height:35px;margin-top:10px;margin-left:50px;color:#ffffff;text-align:center}
+#Uebersicht td{font-family:Calibri}
+
+#DIV_Zeile_Warenkorb{margin-top:10px;margin-left:495px;height:20px;/*background-color:#d8d8d8*/width:175px;}
+.span40{display:inline-block;width:40px;font-family:Calibri;margin-left:10px;font-size:14px}
+#SelectFarbe{margin-left:75px;height:19px;max-width:100px;background-color:red;overflow:hidden;
+                    background: url("Down_07.png") 100% 50% no-repeat #ffffff;text-align:center;border:1px solid #d0d0d0;position:relative;margin-top:-20px;}
+#SelectFarbe select {width: 120%;background: rgba(0,0,0,0);height:20px;padding-left:10px}
+#DIV_min_height_120_W input[type=text]{margin-left:20px;margin-top:10px}
+
+
+#Warenkorb_ArtikelPreis_Rabatt {height: 25px; /*background-color:#d8d8d8}*/}
+#Warenkorb_ArtikelPreis_Artikel{height:30px;/*background-color:#d8d8d8;*/margin-top:5px;border-bottom:2px solid black}
+#Warenkorb_ArtikelPreis_Gesamt_Artikel{height:30px;/*background-color:#d8d8d8;*/margin-top:5px;border-bottom:2px solid black}
+#Warenkorb_ArtikelPreis_Artikel_Ver{height:30px;/*background-color:#d8d8d8;*/margin-top:5px;border-bottom:4px solid black}
+#Warenkorb_ArtikelPreis_Gesamt{height:40px;/*background-color:#d8d8d8;*/margin-top:5px;border-top:2px solid black}
+#Warenkorb_ArtikelPreis_Gesamt > div{margin-top:10px;height:30px;float:right}
+.labelRabatt_1{float:right;font-size:18px;font-family:Calibri;color:red;}
+.labelRabatt_2{font-size:18px;font-family:Calibri;color:red;width:50px;margin-left:432px;}
+.labelArtikel_1{float:right;font-size:22px;font-family:Calibri;}
+.labelArtikel_2{font-size:22px;font-family:Calibri;width:100px;margin-left:430px;}
+.labelArtikel_3{font-size:22px;font-family:Calibri;width:120px;margin-left:380px;}
+.labelArtikel_4{font-size:22px;font-family:Calibri;width:120px;margin-left:367px;}
+.labelGesamt_1{float:right;font-size:27px;font-family:Calibri;}
+.labelGesamt_2{font-size:27px;font-family:Calibri;width:70px;margin-left:400px;}
+.W_Übersicht{font-size:15px;font-family:Calibri;color:#ffffff;text-align:center;}
+
+
+#DIV_min_height_110_R{margin-top:30px;margin-left:50px;background-color:#f7f7f7;border:2px solid #eeeeee;min-height:110px;}
+#DIV_min_height_110_R table{width:95%;background-position:center;margin-left:18px;margin-top:10px}
+#DIV_min_height_110_R td, #DIV_min_height_110_R th {margin-left: 20px;font-family: Calibri; border:1px solid black;text-align:center}
+#DIV_min_height_110_R input[type=checkbox], #DIV_min_height_110_R label{margin-left:18px;margin-top:10px;font-family:Calibri;font-size:16px}
+
+#Fußzeile { height: 35px; bottom:5px; color: #ffffff; text-align: center; background-color: black; max-width: 124px; min-width: 1024px;}
+#Fußzeile td{font-family:Calibri;color:#ffffff}
+.footer{font-size:15px;font-family:Calibri;color:#ffffff;text-align:center;}
